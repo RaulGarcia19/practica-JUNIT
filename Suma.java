@@ -8,7 +8,7 @@ public class Suma {
         this.n2 = n2;
     }
     public Suma(int n1) {
-        this.n1 = n1;
+        this.n1 = n2;
 
     }
     public int getSuma(){
