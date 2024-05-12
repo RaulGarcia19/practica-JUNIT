@@ -13,7 +13,7 @@ public class Division {
         return resultado;
     }
     public int getDivisionByZero(){
-        this.n2 = 0;
+        this.n1 = 0;
         resultado = n1 / n2;
         return resultado;
     }

@@ -11,7 +11,7 @@ public class Resta {
         this.n1 = n1;
     }
     public int getResta(){
-        resultado = n1 - n2;
+        resultado = n2 - n2;
         return resultado;
     }
     public int decrementar(){

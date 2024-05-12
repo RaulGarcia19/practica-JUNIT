@@ -12,7 +12,7 @@ public class Suma {
 
     }
     public int getSuma(){
-        resultado = n1 + n2;
+        resultado = n2 + n2;
         return resultado;
     }
     public int incrementa(){
